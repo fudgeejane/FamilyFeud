@@ -1,0 +1,88 @@
+[
+  {
+    "title": "Game 1",
+    "description": "COMSCI STUDENTS",
+    "questions": [
+      {
+        "question": "Magbigay ng bagay na laging dala ng ComSci student",
+        "answers": [
+          {
+            "text": "Laptop",
+            "score": 30
+          },
+          {
+            "text": "Charger",
+            "score": 25
+          },
+          {
+            "text": "Phone",
+            "score": 20
+          },
+          {
+            "text": "USB / Flash Drive",
+            "score": 15
+          },
+          {
+            "text": "Notebook",
+            "score": 10
+          },
+          {
+            "text": "",
+            "score": 0
+          },
+          {
+            "text": "",
+            "score": 0
+          },
+          {
+            "text": "",
+            "score": 0
+          }
+        ],
+        "total": 100,
+        "game_id": null,
+        "id": "ff671934d34c41c29ce8764591ca377e"
+      },
+      {
+        "question": "Ano ang pampagising ng ComSci student habang nagco-code?",
+        "answers": [
+          {
+            "text": "Kape",
+            "score": 30
+          },
+          {
+            "text": "Energy Drink",
+            "score": 25
+          },
+          {
+            "text": "Music",
+            "score": 20
+          },
+          {
+            "text": "Snacks / Pagkain",
+            "score": 15
+          },
+          {
+            "text": "Pressure / Deadline",
+            "score": 10
+          },
+          {
+            "text": "",
+            "score": 0
+          },
+          {
+            "text": "",
+            "score": 0
+          },
+          {
+            "text": "",
+            "score": 0
+          }
+        ],
+        "total": 100,
+        "game_id": null,
+        "id": "fbd845ddaa824e36bc1715f62c9ad105"
+      }
+    ]
+  }
+]
